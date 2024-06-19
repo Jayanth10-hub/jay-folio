@@ -7,6 +7,7 @@ run { npm create vite@latest . } including the ( _space ._ ) <br>
 run { npm install } <br>
 run { npm run dev } </p>
 <h3>Screenshots</h3>
+
 ![Screenshot 2024-06-20 011933](https://github.com/Jayanth10-hub/jay-folio/assets/172490684/3f205e7e-b726-4d0e-8f1e-87f7c46da494)
 
 ![Screenshot 2024-06-20 011947](https://github.com/Jayanth10-hub/jay-folio/assets/172490684/26b4e1f0-35f6-4443-bf9d-680f75288927)
