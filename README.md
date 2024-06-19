@@ -7,4 +7,4 @@ run { npm create vite@latest . } including the ( _space ._ ) <br>
 run { npm install } <br>
 run { npm run dev } </p>
 
-<img src= alt="home" />
+<img src=./src/assets/Screenshot 2024-06-20 011933.png alt="home" />
