@@ -2,7 +2,7 @@
 <h2> Clone my Repository </h2>
 <br>
 <h3>Open terminal</h3>
-<p>cd (location)<br>
+<p>=> cd (location)<br>
   => run { npm create vite@latest } 
   <br>
   => enter the name of the project or just press enter 
